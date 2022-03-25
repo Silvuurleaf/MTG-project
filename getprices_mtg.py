@@ -8,7 +8,10 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 cards_NeonDynasty2022_mythic = [
     'Ao+the+Dawn+Sky', 'Atsushi+the+Blazing+Sky', 'Blade+of+the+Oni',
     'Explosive+Singularity', 'Hidetsugu+Consumes+All', 'Jin-Gitaxias+Progress+Tyrant',
-    'Jugan+Defends+The+Temple', 'Junji+the+Midnight+Sky', 'Kairi+the+Swirling+Sky',
+    'Jugan+Defends+the+Temple', 'Junji+the+Midnight+Sky', 'Kairi+the+Swirling+Sky',
+    'Kaito+Shizuki', 'Kodama+of+the+West+Tree', 'Kura+the+Boundless+Sky', 'Nashi+Moon+Sages+Scion',
+    'Spirit-Sisters+Call', 'Tamiyo+Compleated+Sage', 'Tezzeret+Betrayer+of+Flesh', 'The+Kami+War',
+    'The+Wandering+Emperor'
 
     ]
 
