@@ -26,6 +26,8 @@ class MTG(object):
                 cards += self.requestCards(f'https://api.magicthegathering.io/v1/cards?set={mtg_set}&page={i+1}')['cards']
                 print(f'Page {i+1} of {mtg_set}: Saved!')
 
+            print(cards)
+
     def requestCards(self, url):
         response = requests.get(url)
         cards = response.json()['cards']
@@ -57,3 +59,6 @@ class MTG(object):
                 if serialzer.is_valid():
                     serialzer.save()
     """
+
+#DB = MTG()
+#DB.getCards_MTG_SDK()
